@@ -1,3 +1,5 @@
+// Git repository
+// https://github.com/JacobB5/SlotMachine.git
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
